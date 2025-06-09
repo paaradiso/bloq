@@ -2,6 +2,7 @@
 	import '../app.css';
 	import '$lib/css/fonts.css';
 	import '$lib/css/custom-colours.css';
+	import '$lib/css/headings.css';
 
 	let { children } = $props();
 </script>
