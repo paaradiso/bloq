@@ -5,7 +5,7 @@ date: 2025-06-09
 
 I used to think tiling window managers were for hardcore keyboard elitists who wore out their Caps Lock keys remapping it to Escape. Then I tried one — and now I can't go back.
 
-![pony](https://cdn.discordapp.com/attachments/719746702986313738/963311913738047498/unknown.png?ex=6847c4a1&is=68467321&hm=085108b8fb0fd82db0c1993188ca04cc2a49213ed845927db92eff0274918199&)
+![lou tao](https://cdn.discordapp.com/attachments/719746702986313738/963311913738047498/unknown.png?ex=6847c4a1&is=68467321&hm=085108b8fb0fd82db0c1993188ca04cc2a49213ed845927db92eff0274918199&)
 <img src="https://swag.horse/Smonking.jpg" width="50%" />
 
 ## First Contact: i3
