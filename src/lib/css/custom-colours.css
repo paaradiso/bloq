@@ -1,0 +1,40 @@
+@import "tailwindcss";
+
+@theme {
+    --color-bg: #0f0f0f;
+    --color-bg2: #262626;
+    --color-fg: #f0f0f0;
+    --color-fg2: #e7e7e7;
+
+    --color-yoru: #0f0f0f;
+    --color-kesseki: #191919;
+    --color-iwa: #262626;
+    --color-tetsu: #393939;
+    --color-amagumo: #4c4c4c;
+    --color-gin: #767676;
+    --color-okami: #a0a0a0;
+    --color-tsuki: #bfbfbf;
+    --color-fuyu: #cacaca;
+
+    --color-ume: #8f8aac;
+    --color-kosumosu: #ac8aac;
+    --color-chikyu: #aca98a;
+    --color-kaen: #ac8a8c;
+    --color-aki: #c6a679;
+    --color-mizu: #8aacab;
+    --color-take: #8aac8b;
+    --color-shinkai: #8a98ac;
+    --color-iwa: #262626;
+    --color-usagi: #e7e7e7;
+
+    --color-ajisai: #a39ec4;
+    --color-sakura: #c49ec4;
+    --color-suna: #c4c19e;
+    --color-echigo: #c49ea0;
+    --color-yuyaki: #ceb188;
+    --color-sora: #9ec3c4;
+    --color-kusa: #9ec49f;
+    --color-kori: #a5b4cb;
+    --color-amagumo: #4c4c4c;
+    --color-yuki: #f0f0f0
+}
